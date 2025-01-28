@@ -9,7 +9,7 @@ This repository contains solutions to the NLP assignments for Fall 2024. Each as
   - Calculate raw and smoothed probabilities.
   - Compute sentence probabilities and perplexity for evaluation.
   - Apply the model to text classification for essay scoring based on perplexity.
-- **Files:** `trigram_model.py`, `hw1_data.zip`
+
 
 ## Homework 2: Dependency Parsing with Neural Networks
 - **Objective:** Train a neural network to predict transitions for an arc-standard dependency parser.
@@ -18,7 +18,7 @@ This repository contains solutions to the NLP assignments for Fall 2024. Each as
   - Define the neural network architecture using PyTorch.
   - Train the model and implement a greedy parsing algorithm.
   - Evaluate the parser using labeled and unlabeled attachment scores.
-- **Files:** `train_model.py`, `extract_training_data.py`, `decoder.py`, `evaluate.py`, `data/*.conll`
+
 
 ## Homework 3: Image Captioning with a Conditioned LSTM Generator
 - **Objective:** Train an LSTM model for image captioning.
@@ -26,7 +26,7 @@ This repository contains solutions to the NLP assignments for Fall 2024. Each as
   - Preprocess image and text data.
   - Design and train a conditioned LSTM generator.
   - Evaluate the model's performance using BLEU scores.
-- **Files:** Jupyter notebook (`hw3.ipynb`), dataset (download from GitHub).
+
 
 ## Homework 4: Fine-tuning BERT for Semantic Role Labeling (SRL)
 - **Objective:** Fine-tune a BERT model for SRL tasks.
@@ -34,13 +34,6 @@ This repository contains solutions to the NLP assignments for Fall 2024. Each as
   - Preprocess the OntoNotes SRL dataset.
   - Fine-tune BERT for token classification.
   - Evaluate model performance on SRL tasks.
-- **Files:** Jupyter notebook (`hw4.ipynb`), dataset (download from provided link).
-
-## Requirements
-- Python 3.x
-- PyTorch
-- NumPy
-- Additional packages listed in each assignment's instructions.
 
 ## License
 This repository is licensed for educational use only, following the guidelines of Columbia University's NLP course.
