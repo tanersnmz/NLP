@@ -1,6 +1,6 @@
 # NLP Homework Assignments
 
-This repository contains solutions to the NLP assignments for Fall 2024. Each assignment builds on concepts in natural language processing, including language modeling, dependency parsing, image captioning, and fine-tuning BERT. Below is an overview of each homework and its objectives.
+This repository contains solutions to the NLP assignments for Fall 2024 at Columbia University. Each assignment builds on concepts in natural language processing, including language modeling, dependency parsing, image captioning, and fine-tuning BERT. Below is an overview of each homework and its objectives.
 
 ## Homework 1: Trigram Language Model
 - **Objective:** Build a trigram language model to extract, count, and compute n-gram probabilities.
